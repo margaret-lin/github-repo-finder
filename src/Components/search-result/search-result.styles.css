@@ -1,0 +1,25 @@
+.search-result {
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    padding: 0px 5px;
+    position: relative;
+}
+
+.search-result ul {
+    list-style-type: none;
+}
+
+.search-result ul li {
+    padding: 20px 0px 20px 0px;
+}
+
+.avatar-pic {
+    height: 150px;
+    width: 150px;
+    left: 60px;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 2px 2px 3px black;
+    margin-top: 20px;
+}
